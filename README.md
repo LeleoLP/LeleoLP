@@ -21,7 +21,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 
 <div id="stack"></div>
 
-## My Stack
+## 👩‍💻 My Stack
 
 <div style="display: inline_block"><br>
   <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
