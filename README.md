@@ -1,45 +1,37 @@
-# Seu Nome
+# Leonardo de Lima Pedroso
 
-## 👋 Olá!
+<div id="about_me"></div>
 
-Sou [Seu Nome], um(a) [sua profissão ou área de atuação] com paixão por [suas áreas de interesse]. Bem-vindo(a) ao meu perfil! Aqui você encontrará informações sobre mim e meus projetos.
+## 🚀 About me
 
-## 🚀 Sobre Mim
+I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Development. Welcome to my profile! Here you will find information about me and my projects.
 
-- 🔭 Atualmente estou trabalhando em [projeto atual ou emprego atual].
-- 🌱 Estou sempre aprendendo e me aprimorando em [áreas de estudo ou tecnologias].
-- 👯 Estou interessado(a) em colaborar em [tipos de projetos ou áreas de colaboração].
-- 📫 Você pode me contatar pelo [seu e-mail] ou [outras formas de contato, como redes sociais].
+🔭 Currently, I'm seeking an opportunity as a full stack or front-end developer.<br>
+🌱 I'm constantly learning and improving in frameworks (Angular, React, Next).<br>
+📫 You can reach me via email: leonardoo.lpedroso@gmail.com
 
-## 🔧 Habilidades
+<br>
 
-Aqui estão algumas das habilidades e tecnologias com as quais estou familiarizado:
+<div id="stats"></div>
 
-- Linguagens de programação: [lista de linguagens, por exemplo: JavaScript, Python, etc.]
-- Tecnologias: [lista de tecnologias, por exemplo: React, Node.js, etc.]
-- Ferramentas: [lista de ferramentas, por exemplo: Git, VS Code, etc.]
+## 📈 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeleoLP&show_icons=true&theme=dark)
 
-## 🌟 Projetos Destacados
+<br>
 
-Aqui estão alguns dos meus projetos destacados:
+<div id="stack"></div>
 
-1. [Nome do Projeto 1](link para o projeto) - Breve descrição do projeto.
-2. [Nome do Projeto 2](link para o projeto) - Breve descrição do projeto.
-3. [Nome do Projeto 3](link para o projeto) - Breve descrição do projeto.
+## My Stack
 
-## 📝 Blog
-
-Eu também escrevo ocasionalmente em meu blog sobre [tópicos relacionados aos seus interesses].
-
-- [Título do Artigo 1](link para o artigo) - Breve descrição do artigo.
-- [Título do Artigo 2](link para o artigo) - Breve descrição do artigo.
-
-## 📫 Entre em Contato
-
-- E-mail: [seu e-mail]
-- LinkedIn: [seu perfil no LinkedIn]
-- Twitter: [@seu_perfil_no_twitter]
-
-Fique à vontade para entrar em contato comigo se quiser discutir projetos, colaborações ou apenas para bater um papo!
-
+<div style="display: inline_block"><br>
+  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/python-3982CE?style=for-the-badge&logo=python&logoColor=yellow"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>&nbsp;&nbsp;
+</div>
+<br>
+<br>
+                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeleoLP&layout=compact)](https://github.com/LeleoLP/github-readme-stats)
 
