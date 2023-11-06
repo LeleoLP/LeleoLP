@@ -24,11 +24,11 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 ## 👩‍💻 My Stack
 
 <div style="display: inline_block"><br>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,py,django,cs" />
-  </a>
-  </p>
+  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/python-3982CE?style=for-the-badge&logo=python&logoColor=yellow"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>&nbsp;&nbsp;
 </div>
 <br>
 <br>
