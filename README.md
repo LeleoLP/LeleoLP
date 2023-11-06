@@ -15,7 +15,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 <div id="stats"></div>
 
 ## 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeooCodesP&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeooCodes&show_icons=true&theme=dark)
 
 <br>
 
@@ -33,5 +33,5 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 <br>
 <br>
                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeleoLP&layout=compact)](https://github.com/LeooCodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeooCodes&layout=compact)](https://github.com/LeooCodes/github-readme-stats)
 
