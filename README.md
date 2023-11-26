@@ -29,6 +29,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>&nbsp;&nbsp;
 </div>
 <br>
