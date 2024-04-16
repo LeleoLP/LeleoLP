@@ -35,5 +35,5 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 <br>
 <br>
                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoocds&layout=compact)](https://github.com/Leoocds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoocds&layout=compact&bg_color=000000)](https://github.com/Leoocds/github-readme-stats)
 
