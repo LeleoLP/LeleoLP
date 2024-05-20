@@ -30,7 +30,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>&nbsp;&nbsp;
 </div>
 <br>
