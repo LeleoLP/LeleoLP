@@ -7,7 +7,7 @@
 I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Development. Welcome to my profile! Here you will find information about me and my projects.
 
 🔭 Currently, I'm seeking an opportunity as a full stack or front-end developer.<br>
-🌱 I'm constantly learning and improving in frameworks (React, Next, Node).<br>
+🌱 I'm constantly learning and improving in frameworks (React, Next and Node).<br>
 📫 You can reach me via email: leonardoo.lpedroso@gmail.com
 
 <br>
