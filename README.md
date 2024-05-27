@@ -24,14 +24,13 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 ## 👩‍💻 My Stack
 
 <div style="display: inline_block"><br>
-  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/react-black?logo=react&style=for-the-badge"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;
 </div>
 <br>
 <br>
